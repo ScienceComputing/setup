@@ -1,2 +1,2 @@
 # myrepo
-This is the testing on my setup.
+This is the testing on the setup.
